@@ -1,0 +1,7 @@
+Versión de python necesaria para ejecutar el programa principal y las pruebas es : 3.7.3
+para revisar la versión teclee python -V
+No se requere de una instalación extra de paqueterías para esta versión.
+
+1.-Posicionarse en la carpeta de la solución, para este caso sería <<path>>/LinioTest
+2.-Para ejecutar el programa principal teclee el siguiente comando python Start.py
+3.- Para ejecutar las pruebas teclee el siguiente comando python TestModulos.py
